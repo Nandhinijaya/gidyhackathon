@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Software Engineer",
+      "company": "Google",
+      "location": "Mountain View, CA",
+      "link": "https://careers.google.com/"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Redmond, WA",
+      "link": "https://careers.microsoft.com/"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Amazon",
+      "location": "Seattle, WA",
+      "link": "https://www.amazon.jobs/"
+    }
+  ]
+  
